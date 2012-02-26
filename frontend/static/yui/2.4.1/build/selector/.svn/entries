@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/selector
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+selector-beta.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+d16835187968cbc9c2502b2d08dae34b
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+selector-beta-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+58579e65458f16141d9c6938a7cc5bf8
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+selector-beta-debug.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+03c0de07b3a8fe7dfffaa53ec0962928
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:25:00.000000Z
+c51c5ea85f2c8042daad67b602c0185d
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

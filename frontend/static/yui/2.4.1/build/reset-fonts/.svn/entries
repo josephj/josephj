@@ -1,0 +1,40 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/reset-fonts
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+reset-fonts.css
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+eae81a1e284e223d353103305f816053
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-10-29T04:20:44.000000Z
+c0024cf8b5af801a3e8316c7fa308080
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

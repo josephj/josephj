@@ -1,0 +1,40 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/calendar/assets/skins/sam
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+calendar.css
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+af729706cbae5429d4df1e746b020d8e
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+calendar-skin.css
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+4792f4d61c5587c995be12323860b123
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

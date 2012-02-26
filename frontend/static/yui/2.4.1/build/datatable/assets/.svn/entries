@@ -1,0 +1,43 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/datatable/assets
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+skins
+dir
+
+datatable.css
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+988b1a496233575afa5e7570696a61c7
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+datatable-core.css
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+35e79962eb4b1499e4bbaaa1d9c76615
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

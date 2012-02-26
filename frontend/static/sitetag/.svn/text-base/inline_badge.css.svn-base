@@ -1,0 +1,7 @@
+.sitetag-inline-badge {margin:0 0 10px;font:normal 12px Arial;padding:0;border:none;}
+.sitetag-inline-badge .sitetag-list,
+.sitetag-inline-badge .sitetag-list .sitetag-item,
+.sitetag-inline-badge .sitetag-list .sitetag-item .sitetag-link {display:inline;font:normal 12px Arial;margin:0;padding:0;border:none;}
+.sitetag-inline-badge .sitetag-list .sitetag-item {list-style-type:none;margin-right:8px;}
+.sitetag-logo {font-size:10px;text-decoration:none;color:#333;}
+.sitetag-logo a:link,.sitetag-logo a:visited {color:#333;font:bold 100% Georgia;font-style:italic;}

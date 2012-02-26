@@ -1,0 +1,67 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/menu
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+menu.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+dd7cd0b412b9a3cfbfc7a9fb823ce46f
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+menu-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+e3464bf82104edcf7e5b390c585be120
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+assets
+dir
+
+menu-debug.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+f768154e46fb895bbea460955cec28b2
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:25:00.000000Z
+e8ed1a8913a0fc2650b4d4ba530b49ba
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

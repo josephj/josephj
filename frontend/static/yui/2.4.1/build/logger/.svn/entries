@@ -1,0 +1,67 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/logger
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+assets
+dir
+
+logger.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+a44d17f71b12b1af387d09a2b860a810
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+logger-min.js
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+ac325dfeda2b9d8e7788a58f3ac1c895
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+cbd78da667197e9f70b8ebb0cb7fcaac
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+logger-debug.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+a44d17f71b12b1af387d09a2b860a810
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

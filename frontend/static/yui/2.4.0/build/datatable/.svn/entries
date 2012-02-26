@@ -1,0 +1,79 @@
+8
+
+dir
+2
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.0/build/datatable
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a86c5bd-99ea-4b93-be07-98416377ba5b
+
+assets
+dir
+
+datatable-beta.js
+file
+
+
+
+
+2008-01-04T03:54:34.000000Z
+da91a34b5823895b8aa25416ec1a009c
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+datatable-beta-min.js
+file
+
+
+
+
+2008-01-04T03:54:34.000000Z
+67b3b378384f2be99337cceffa2c54d1
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+datatable-beta-debug.js
+file
+
+
+
+
+2008-01-04T03:54:34.000000Z
+601e7b9f7b88f6ccd834aa107a3a1775
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+README
+file
+
+
+
+
+2008-01-04T03:54:34.000000Z
+006985712bc1ad35daa3acdcf1fe1cb1
+2008-01-04T02:56:44.758259Z
+1
+josephj
+

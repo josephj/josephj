@@ -1,0 +1,79 @@
+8
+
+dir
+2
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.0/build/yuitest
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a86c5bd-99ea-4b93-be07-98416377ba5b
+
+assets
+dir
+
+yuitest-beta.js
+file
+
+
+
+
+2008-01-04T03:54:35.000000Z
+70307291db301b45b2e0a75a7817abd9
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+yuitest-beta-min.js
+file
+
+
+
+
+2008-01-04T03:54:35.000000Z
+a95558c8aed0b082eb756037ff1efe98
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+README
+file
+
+
+
+
+2008-01-04T03:54:35.000000Z
+94272f0ccd6fd24615a6585aa3d3333c
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+yuitest-beta-debug.js
+file
+
+
+
+
+2008-01-04T03:54:35.000000Z
+70307291db301b45b2e0a75a7817abd9
+2008-01-04T02:56:44.758259Z
+1
+josephj
+

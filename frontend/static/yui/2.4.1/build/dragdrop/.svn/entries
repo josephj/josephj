@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/dragdrop
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+dragdrop-debug.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+714181d3bbe2ef054b20d8998580e92c
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+8e737d84537b096d770899d7779875fa
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+dragdrop.js
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+9cc59e369062ab112ed54b9996b58f5b
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+dragdrop-min.js
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+edc9306b7532a720a0b052c627332b1f
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

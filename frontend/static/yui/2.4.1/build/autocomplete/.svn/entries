@@ -1,0 +1,67 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/autocomplete
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+autocomplete-debug.js
+file
+
+
+
+
+2007-12-18T07:43:00.000000Z
+b554c47a80c54337036c1076029c5762
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+assets
+dir
+
+autocomplete.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+c6d2357e3c82799ab3443df286a4aea9
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+bedabed6bebab356e5db81e15cc902a0
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+autocomplete-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+d9332507f9b76c805f32d92e7fd39b06
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

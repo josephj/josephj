@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/datasource
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+datasource-beta-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+9709b69e59ed1c7185f5eca8e42b18b6
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+datasource-beta-debug.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+aeb4b46b88031781cbab71903e4caa3a
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+365d7c27bddd9b7afc87389ddef22e20
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+datasource-beta.js
+file
+
+
+
+
+2007-12-18T07:43:00.000000Z
+45cf9aebcd0642293e23e965775991c9
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

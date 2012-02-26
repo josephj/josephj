@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/connection
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+connection.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+2dd53fd389d2505e6b15fe73219dab31
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+connection-min.js
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+93740ce727236a3cdb713b1f984e8f75
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+c460e6302756aa31bdaf5ff85ed31016
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+connection-debug.js
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+b0a7ce522e91ba9744a026f82983a7ee
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

@@ -1,0 +1,70 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/colorpicker/assets
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+picker_thumb.png
+file
+
+
+
+
+2007-06-25T04:16:40.000000Z
+96aa37e578d0428346e4c7170ac9a230
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+
+hue_thumb.png
+file
+
+
+
+
+2007-06-25T04:16:40.000000Z
+b1a887427b558af46f17262784da3583
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+
+skins
+dir
+
+picker_mask.png
+file
+
+
+
+
+2007-06-25T04:16:40.000000Z
+a4d3b14fbcc5b8f112d3635f981d6a1c
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+
+colorpicker_core.css
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+48e093b41bd709a8d073a09429db8c44
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

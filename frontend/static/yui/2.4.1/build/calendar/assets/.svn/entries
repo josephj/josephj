@@ -1,0 +1,95 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/calendar/assets
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+calendar.css
+file
+
+
+
+
+2007-12-18T07:43:00.000000Z
+399fdda6d9a4bd4376fb73f3ec7d563d
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+calgrad.png
+file
+
+
+
+
+2007-11-05T02:53:48.000000Z
+d028abaadeebb310606448cfc7ba2bfe
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+
+callt.gif
+file
+
+
+
+
+2006-05-02T05:39:12.000000Z
+0718c393fbd4095b219803cb6b7bcbf8
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+
+calendar-core.css
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+a28217c825d2e9377232aead8a9806fa
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+skins
+dir
+
+calrt.gif
+file
+
+
+
+
+2006-05-02T05:39:12.000000Z
+ba0b2098813b15aa3cc655e881c92d0a
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+
+calx.gif
+file
+
+
+
+
+2006-05-02T05:39:12.000000Z
+acc1427b926515c1ec846e04e3b635cd
+2008-01-05T12:35:57.910176Z
+4
+josephj
+has-props
+

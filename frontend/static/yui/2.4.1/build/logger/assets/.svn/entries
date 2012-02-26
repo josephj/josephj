@@ -1,0 +1,43 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/logger/assets
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+logger.css
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+06a3994a7b9b6001deafff9bdd048ef2
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+skins
+dir
+
+logger-core.css
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+7aac5330270dafd237cdad1fa943296a
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

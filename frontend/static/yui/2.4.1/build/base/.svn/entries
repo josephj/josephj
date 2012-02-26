@@ -1,0 +1,52 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/base
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+base.css
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+0c567eb5672e947925040d68e3fbd31d
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+base-min.css
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+f99c5b2630c93d0e2d8ea2e6e146b958
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+90a9a87161c324525ff6df06f439934d
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

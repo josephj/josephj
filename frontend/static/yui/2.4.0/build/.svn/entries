@@ -1,0 +1,154 @@
+8
+
+dir
+2
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.0/build
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a86c5bd-99ea-4b93-be07-98416377ba5b
+
+logger
+dir
+
+animation
+dir
+
+selector
+dir
+
+datatable
+dir
+
+profiler
+dir
+
+charts
+dir
+
+fonts
+dir
+
+element
+dir
+
+datasource
+dir
+
+connection
+dir
+
+assets
+dir
+
+dragdrop
+dir
+
+menu
+dir
+
+yuitest
+dir
+
+grids
+dir
+
+json
+dir
+
+colorpicker
+dir
+
+yahoo
+dir
+
+dom
+dir
+
+get
+dir
+
+reset-fonts-grids
+dir
+
+event
+dir
+
+container
+dir
+
+reset
+dir
+
+slider
+dir
+
+editor
+dir
+
+treeview
+dir
+
+yuiloader
+dir
+
+tabview
+dir
+
+autocomplete
+dir
+
+history
+dir
+
+3
+file
+
+
+
+
+2008-01-04T03:54:37.000000Z
+552d16233cd86d0623de8c06ca184584
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+reset-fonts
+dir
+
+imageloader
+dir
+
+calendar
+dir
+
+base
+dir
+
+button
+dir
+
+utilities
+dir
+
+yahoo-dom-event
+dir
+

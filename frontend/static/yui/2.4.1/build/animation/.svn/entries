@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/animation
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+animation.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+788120f0a8540e65e25a88f3b7f85053
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+animation-min.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+2c96a165458186a4216077c68a22cd56
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+5325e4dc16f35c974f80117415ce74d8
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+animation-debug.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+bea68a8f3fc7fa0a4aeeccb48986a3a1
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

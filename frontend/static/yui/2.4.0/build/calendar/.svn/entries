@@ -1,0 +1,79 @@
+8
+
+dir
+2
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.0/build/calendar
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a86c5bd-99ea-4b93-be07-98416377ba5b
+
+assets
+dir
+
+calendar.js
+file
+
+
+
+
+2008-01-04T03:54:36.000000Z
+908efd053af8205b96cb1f4bd7563813
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+calendar-min.js
+file
+
+
+
+
+2008-01-04T03:54:36.000000Z
+945101409f3dbb6a8d904ef7b9033356
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+calendar-debug.js
+file
+
+
+
+
+2008-01-04T03:54:36.000000Z
+7d8008229235f3b98908fc19a0d119c6
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+README
+file
+
+
+
+
+2008-01-04T03:54:36.000000Z
+55fe544858e1fca9bd8a6dcbd2b845b2
+2008-01-04T02:56:44.758259Z
+1
+josephj
+

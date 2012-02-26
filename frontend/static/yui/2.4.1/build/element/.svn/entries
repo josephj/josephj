@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/element
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+element-beta-debug.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+779b5241a8ef4c26dd6a768316254551
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-02T17:06:02.000000Z
+7e926cd66d13caaa83f0c9fb8b9d488e
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+element-beta.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+65376f6a46d6037b0842568113de44e7
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+element-beta-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+5d4d82ab12555a95fda0a55759249387
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

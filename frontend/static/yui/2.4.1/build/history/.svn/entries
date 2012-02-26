@@ -1,0 +1,67 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/history
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+history-debug.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+3886f20a65d44bfa8b5ce68de2aa4d98
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+assets
+dir
+
+history.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+3886f20a65d44bfa8b5ce68de2aa4d98
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+63634ad7ecc6ae2beddd7dcfb11fa531
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+history-min.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+a78a071cb1e4d7d03553648ca0204838
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

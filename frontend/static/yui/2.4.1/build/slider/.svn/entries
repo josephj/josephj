@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/slider
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+slider-debug.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+360ffeacf39d240d105e7fd55d0e748d
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:25:00.000000Z
+4a879eb591f1ef3f41c57146def20378
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+slider.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+fe2c7a89a563d7574b8fb4c3439e6fe5
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+slider-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+114f28b3379a4440720e609877e97f16
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

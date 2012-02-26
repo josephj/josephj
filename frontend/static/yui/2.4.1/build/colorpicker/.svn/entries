@@ -1,0 +1,67 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/colorpicker
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+colorpicker-beta.js
+file
+
+
+
+
+2007-12-18T07:42:58.000000Z
+18b4f584ff29ad594ca0b80bc20d4bf8
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+colorpicker-beta-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+5c4ee61a2a89dcbb0cfa72ee6067f69a
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+assets
+dir
+
+colorpicker-beta-debug.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+3f935bfe9e60b8ed38e787f3136b1d29
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+83ca491dc7835e724707ada13ee70c8c
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

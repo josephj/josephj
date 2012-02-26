@@ -1,0 +1,64 @@
+8
+
+dir
+4
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.1/build/json
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+json-beta-debug.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+79f69ebe4186138e017cbde742797e24
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+README
+file
+
+
+
+
+2007-12-18T03:24:58.000000Z
+1de98127772e125c652304a262d9d924
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+json-beta.js
+file
+
+
+
+
+2007-12-18T07:42:54.000000Z
+79f69ebe4186138e017cbde742797e24
+2008-01-05T12:35:57.910176Z
+4
+josephj
+
+json-beta-min.js
+file
+
+
+
+
+2007-12-18T07:42:56.000000Z
+faf1317c32294075d654ee85bb501bb7
+2008-01-05T12:35:57.910176Z
+4
+josephj
+

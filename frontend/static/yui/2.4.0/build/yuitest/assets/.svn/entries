@@ -1,0 +1,55 @@
+8
+
+dir
+2
+http://josephjiang.com/svn/josephjiang/trunk/yui/2.4.0/build/yuitest/assets
+http://josephjiang.com/svn/josephjiang
+
+
+
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a86c5bd-99ea-4b93-be07-98416377ba5b
+
+yuitest-core.css
+file
+
+
+
+
+2008-01-04T03:54:35.000000Z
+600fb403dd6962532dbef554f040baa8
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+testlogger.css
+file
+
+
+
+
+2008-01-04T03:54:35.000000Z
+832cd6f8d6a2e2fa89f3a8324d4dc72e
+2008-01-04T02:56:44.758259Z
+1
+josephj
+
+skins
+dir
+

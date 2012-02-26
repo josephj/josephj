@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/josephjiang/!svn/ver/4/trunk/yui/2.4.1/build/charts
+END
+charts-experimental.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/josephjiang/!svn/ver/4/trunk/yui/2.4.1/build/charts/charts-experimental.js
+END
+charts-experimental-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/josephjiang/!svn/ver/4/trunk/yui/2.4.1/build/charts/charts-experimental-min.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/josephjiang/!svn/ver/4/trunk/yui/2.4.1/build/charts/README
+END
+charts-experimental-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/josephjiang/!svn/ver/4/trunk/yui/2.4.1/build/charts/charts-experimental-debug.js
+END
