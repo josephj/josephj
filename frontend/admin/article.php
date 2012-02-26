@@ -1,5 +1,5 @@
 <?php
-define('LIBRARY_PATH', './lib/');
+define('LIBRARY_PATH', '../../lib/');
 
 require_once LIBRARY_PATH . 'config.php';
 require_once LIBRARY_PATH . 'db.php';
